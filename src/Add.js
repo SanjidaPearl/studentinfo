@@ -20,9 +20,9 @@ function Add() {
   return (
     <div className='d-flex w-100 h-100 justify-content-center align-items-center'>
         <div className='w-50 border bg-light p-5'>
-        <div className="text-center mb-3" style={{ backgroundColor: 'skyblue' }}>
-        <h2>Student Information System</h2>
-      </div>
+        <div className="text-center mb-3">
+        <h2>Add Student Information </h2>
+        </div>
             <form onSubmit={handleSubmit}>
             <div>
                 <label htmlFor="id">Student ID:</label>
