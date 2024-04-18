@@ -1,6 +1,6 @@
 # Student Information System with REST API
 
-A Crud app using React.js, JSON Server, Bootstrap, HTML, CSS, Javascript
+A Crud app using React.js, JSON Server, Bootstrap, HTML, CSS, Javascript.
 
 ### GET
 
