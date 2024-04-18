@@ -5,7 +5,7 @@ import './App.css'
 
 
 function Add() {
-    const[inputData,setInputData] = useState({name:'',email:''})
+    const[inputData,setInputData] = useState({name:'',Email:''})
 
     const navigate = useNavigate
     function handleSubmit(event){
